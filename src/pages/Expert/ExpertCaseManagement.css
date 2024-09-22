@@ -1,0 +1,10 @@
+.no-visited {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .no-visited:visited {
+    color: inherit;
+    text-decoration: none; 
+  }
+  
